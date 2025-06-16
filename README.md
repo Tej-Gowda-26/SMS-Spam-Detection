@@ -27,7 +27,7 @@ This project uses the [SMS Spam Collection Dataset](https://www.kaggle.com/datas
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sms-spam-detection.git
+git clone https://github.com/YTej_gowda_26/sms-spam-detection.git
 cd sms-spam-detection
 ```
 
