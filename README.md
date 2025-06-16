@@ -77,4 +77,4 @@ python src/predict.py
 streamlit run src/app.py
 ```
 
-## Go to http://localhost:8501 in your browser to interact with the SMS Spam Detection interface.
+**Go to http://localhost:8501 in your browser to interact with the SMS Spam Detection interface.**
